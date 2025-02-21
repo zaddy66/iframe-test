@@ -17,3 +17,4 @@ setTimeout(() => {
 // });
 
 console.log(document.getElementById('myIframe')); // Should not be null
+console.log('hellow');
